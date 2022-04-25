@@ -1,11 +1,11 @@
+  <p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=invictauss&theme=dark" />
+</p>
+
 <div align="center">
   <a href="https://github.com/invictauss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invictauss&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=invictauss&theme=dark" />
-</p>
 
 ```py
 from GitHub import ReadMe
