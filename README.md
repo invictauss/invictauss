@@ -21,6 +21,7 @@ class invictauss(ReadMe):
         self.alises = [
             "invictaus",
         ]
+        self.about_me = "Trying to learn"
         self.location = "Dublin, Ireland"
         self.programming_language = "Python"
         self.operating_system = "Windows"
